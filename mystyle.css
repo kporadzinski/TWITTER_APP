@@ -1,0 +1,41 @@
+.op {
+
+background-color: lightgreen;
+border-style: solid;
+border-color: black;
+border-width: 3px;
+font-style: italic;
+width: 50px;
+
+
+
+}
+
+.opa {
+
+border-style: solid;
+border-color: black;
+border-width: 3px;
+font-style: italic;
+width: 500px;
+
+}
+
+.tweet {
+  background-color: lightpink ;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  font-style: italic;
+  width: 500px;
+}
+
+.main {
+  text-align: center;
+  background-color: lightgreen;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  font-style: italic;
+  width: 50px;
+}
